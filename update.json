@@ -1,0 +1,10 @@
+{
+  "versionCode": 8,
+  "versionName": "8.0.4",
+  "apk": "SpeedMaxPro.apk",
+  "sha256": "c745bd873f8d574b42815e9d8055b7817694c6b0e511fb77b1f24350363c83fc",
+  "size": 111404727,
+  "notes": "New VPN Update Available\nBug fixes",
+  "force": true,
+  "apk_url": "https://github.com/Zico4real/Speedmaxpro-VPN-Update/releases/download/v8.0.4/SpeedMaxPro.apk"
+}
